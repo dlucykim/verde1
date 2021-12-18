@@ -9587,8 +9587,19 @@ textarea.form-control {
 .ftco-choose .full-wrap {
   height: 350px; }
 
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
 .ftco-choose .text {
-  width: 100%; }
+  width: 100%; 
+}
+  .showoff{
+   opacity:0;
+  
+  }
+  .pic:hover .showoff{
+    background: rgb(300, 300, 300 , 0.6);
+    opacity:1;
+  }
   .ftco-choose .text .subheading {
     font-size: 13px;
     letter-spacing: 4px;
